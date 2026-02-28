@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Oleksandr
 
-<!--
-**DarrJorge/DarrJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Senior Game Developer | C++ / Unreal Engine / Unity  
+🧠 Engine & Rendering Enthusiast  
+📍 Based in Finland  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I’m a software engineer with 15+ years of development experience, including 10+ years in game development.
+I enjoy working close to the metal — graphics pipelines, memory management, API abstraction layers — as well as high-level gameplay systems and tools.
+
+---
+
+## 🔧 Tech Stack
+
+### Languages
+C++20, C#, Python, TypeScript
+
+### Engines & Graphics
+- Unreal Engine (C++)
+- Unity (C#)
+- OpenGL
+- GLSL, HLSL
+
+### Architecture & Tools
+- Conan + CMake
+- GitHub Actions
+- Cross-platform development (Windows / macOS)
+
+---
+
+## 🤝 Let’s Connect
+
+- LinkedIn: https://linkedin.com/in/oleksandr-pogorelov-5946265b/
+- Open to Senior / Lead Game Dev & Rendering roles
