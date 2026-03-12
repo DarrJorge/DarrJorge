@@ -27,7 +27,7 @@ C++20, C#, Python, TypeScript
 ### Architecture & Tools
 - Conan + CMake
 - GitHub Actions
-- Cross-platform development (Windows / macOS)
+- Cross-platform development (Windows / macOS / Android / iOS)
 
 ---
 
