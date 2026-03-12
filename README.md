@@ -1,6 +1,6 @@
 # Hi 👋 I'm Oleksandr
 
-🎮 Senior Game Developer | C++ / Unreal Engine / Unity  
+🎮 Senior Game Engineer | Developer | C++ / Unreal Engine / Unity  
 🧠 Engine & Rendering Enthusiast  
 📍 Based in Finland  
 
