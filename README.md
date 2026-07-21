@@ -21,7 +21,7 @@ C++20, C#, Python, TypeScript
 ### Engines & Graphics
 - Unreal Engine (C++)
 - Unity (C#)
-- OpenGL
+- OpenGL, DirectX12, Vulkan
 - GLSL, HLSL
 
 ### Architecture & Tools
